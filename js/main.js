@@ -26,7 +26,7 @@ function setupPCAnimation() {
         scrollTrigger: {
             trigger: ".scroll-container",
             start: "top top",
-            end: "bottom+=700 bottom",
+            end: "bottom+=1700 bottom",
             scrub: true,
             onUpdate: () => setupColorChange()
         },
