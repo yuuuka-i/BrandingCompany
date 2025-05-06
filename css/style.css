@@ -158,6 +158,7 @@ img {
             } 
         }
         .fv__text-right {
+            padding: 10px;
             display: flex;
             overflow: hidden;
             margin-top: -40px;
@@ -165,7 +166,6 @@ img {
             font-size: 85px;
             font-family: 'dearJoe 6 TRIAL', sans-serif;
             font-weight: normal; 
-            z-index: 100;
             @media (max-width: 1000px) {
                 margin: 10px auto 0;
                 font-size: 60px;
