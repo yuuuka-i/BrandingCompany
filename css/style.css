@@ -165,6 +165,7 @@ img {
             font-size: 85px;
             font-family: 'dearJoe 6 TRIAL', sans-serif;
             font-weight: normal; 
+            z-index: 100;
             @media (max-width: 1000px) {
                 margin: 10px auto 0;
                 font-size: 60px;
