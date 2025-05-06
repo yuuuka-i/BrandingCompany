@@ -27,6 +27,7 @@ img {
     font-size: 80px;
     @media (max-width: 1000px) {
         font-size: 60px;
+        padding-top:20px;
     }
 }
 /* ボタン(共通) */
