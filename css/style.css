@@ -113,6 +113,7 @@ img {
             font-size: 135px;
             @media (max-width: 1000px) {
                 font-size: 90px;
+                padding: 20px;
             }
             @media (max-width: 400px) {
                 font-size: 60px;
@@ -171,6 +172,7 @@ img {
                 font-size: 60px;
             }
             @media (max-width: 400px) {
+                padding: 20px;
                 font-size: 40px;
             }
         }
