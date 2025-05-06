@@ -112,6 +112,7 @@ img {
             font-weight: normal;                            
             font-size: 135px;
             @media (max-width: 1000px) {
+                padding-top: 20px;
                 font-size: 90px;
                 padding: 20px;
             }
